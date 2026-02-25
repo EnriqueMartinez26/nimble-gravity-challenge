@@ -15,32 +15,5 @@ La aplicación es una mini interfaz desarrollada en **React** que interactúa co
 - **CSS Vanilla** (Diseño prolijo y funcional)
 - **Fetch API** (Comunicación con la API REST)
 
-## Instalación y Ejecución
 
-Si deseas ejecutar el proyecto localmente, sigue estos pasos:
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/EnriqueMartinez26/nimble-gravity-challenge.git
-   ```
-2. Entra en la carpeta del proyecto:
-   ```bash
-   cd nimble-gravity-challenge
-   ```
-3. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-4. Inicia el servidor de desarrollo:
-   ```bash
-   npm run dev
-   ```
-
-## Estructura del Proyecto
-
-- `src/api.js`: Lógica de comunicación con los endpoints de la API.
-- `src/components/`: Componentes modulares (Formulario de Email, Lista de Jobs, Tarjeta de Job).
-- `src/App.jsx`: Componente principal que maneja el flujo de navegación del candidato.
-
----
-Desarrollado por **Enrique Martínez**.
+Desarrollado por **Martínez Enrique Leonel**.
